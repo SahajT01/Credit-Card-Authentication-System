@@ -1,0 +1,14 @@
+{
+  "cards": [
+    {
+      "cardNumber": "a",
+      "expirationDate": "b",
+      "cardHolderName": "c"
+    },
+    {
+      "cardNumber": "d",
+      "expirationDate": "e",
+      "cardHolderName": "f"
+    }
+  ]
+}

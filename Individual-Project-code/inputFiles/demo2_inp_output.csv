@@ -1,0 +1,4 @@
+cardNumber,cardType
+4123456789123999,Visa
+347856341908126,AmericanExpress
+,Invalid: empty/null card number
